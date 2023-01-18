@@ -8,6 +8,6 @@
 _____________
 
 ## Resumo das Teóricas
-**Resumo Teórico SM**: [here](SM_2022/SM_2022_2023-Resumo_Teórico.pdf)  
+**Resumo Teórico SM**: [here](/SM_2022_2023-Resumo_Teórico.pdf)  
 **Videos sobre o resumo**: [here](https://educast.fccn.pt/vod/channels/1suktswyph?locale=pt)  (alunos da Universidade de Aveiro)  
 **Autor**: Professor Tomás António Mendes Oliveira e Silva
